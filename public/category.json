@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "code": 2000,
+    "data": [
+        {"title": "关注", "name": "Attention"},
+        {"title": "推荐", "name": "Recommend"}
+    ]
+}

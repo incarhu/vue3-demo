@@ -1,0 +1,65 @@
+{
+  "id": "2509060",
+  "name": "vue3-next-demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "720957",
+      "name": "购物车",
+      "font_class": "xiazai1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7391189",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "21229364",
+      "name": "点赞",
+      "font_class": "buoumaotubiao17",
+      "unicode": "ea1c",
+      "unicode_decimal": 59932
+    },
+    {
+      "icon_id": "1089296",
+      "name": "点赞",
+      "font_class": "buoumaotubiao16",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "18171150",
+      "name": "分享,转发",
+      "font_class": "redo",
+      "unicode": "ea1b",
+      "unicode_decimal": 59931
+    },
+    {
+      "icon_id": "14311390",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "16589942",
+      "name": "评论-",
+      "font_class": "53pinglun-",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "18171151",
+      "name": "分享,转发",
+      "font_class": "redo-full",
+      "unicode": "ea1a",
+      "unicode_decimal": 59930
+    }
+  ]
+}
